@@ -1,6 +1,4 @@
-# Awesome Wolfram Language
-
-<img src="media/badge.svg">
+# Awesome Wolfram Language <img src="media/badge.svg">
 
 [<img src="media/wolfram-language.svg" align="right" width="100">](https://wolfram.com)
 
