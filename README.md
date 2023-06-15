@@ -57,6 +57,7 @@
 
 ## Calculus
 - [Rubi](https://github.com/RuleBasedIntegration/Rubi) ─ Implementation of the rule-based integrator called Rubi.
+- [IntWithStepsOfTeXForm](https://github.com/wuyudi/IntWithStepsOfTeXForm) ─ Indefinite Integral Process Generator (By Mathematica)
 - [RHPackage](https://github.com/dlfivefifty/RHPackage) ─ A Mathematica package for solving Riemann–Hilbert problems numerically.
 
 ## Chemistry
@@ -105,12 +106,15 @@
 - [CSSTools](https://github.com/WolframResearch/CSSTools) ─ A package for importing CSS files into the Wolfram Language.
 - [jSoupLink](https://github.com/cekdahl/jSoupLink) ─ HTML parser for Wolfram Language.
 - [webtools](https://github.com/arnoudbuzing/webtools) ─ A Wolfram Language package which automates interactions with web browsers.
+- [wolfram-js-frontend](https://github.com/JerryI/wolfram-js-frontend) ─ JS frontend for freeware Wolfram Engine.
 
 ## Game Theory
 - [spatial-game-theory](https://github.com/taliesinb/spatial-game-theory) ─ A flexible Mathematica package for conducting experiments involving spatial game theory.
 
 ## IDE
 - [EasyIDE](https://github.com/b3m2a1/EasyIDE) ─ An easy IDE for Mathematica in Mathematica.
+- [wolfram-language-notebook](https://github.com/njpipeorgan/wolfram-language-notebook) ─ Notebook support for Wolfram Language in VS Code
+- [lsp-wl](https://github.com/kenkangxgwe/lsp-wl) ─ A Wolfram Language Server
 
 ## LaTeX
 - [MaTeX](https://github.com/szhorvat/MaTeX) ─ LaTeX labels in Mathematica.
