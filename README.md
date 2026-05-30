@@ -118,7 +118,9 @@
 - [lsp-wl](https://github.com/kenkangxgwe/lsp-wl) ─ A Wolfram Language Server
 
 ## Interpreters
-- [Mathics](https://mathics.org) - Free and open source alternative to Mathematica.
+- [Mathics](https://mathics.org) - Free and open source alternative to Mathematica written in Python.
+- [Mathilda](https://github.com/stblake/mathilda) - An AI agent generated computer algebra system written in C. 
+- [Symja](https://github.com/axkr/symja_android_library) - Open source CAS language with Mathematica syntax support written in Java.
 - [Woxi](https://github.com/ad-si/Woxi) - Wolfram Language interpreter written in Rust.
 
 ## LaTeX
